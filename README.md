@@ -6,8 +6,18 @@ Final project for the logic and sequential circuits coruse attended at Universit
 
 ## Simple calculator with accumulator
 
-| Architecture|Debouncer|ALU|
-|--|--|--|
-|![](./assets/architecture.png)|![](./assets/debouncer.png)|
+| Architecture|
+|--|
+|![](./assets/architecture.png)| 
 
-Debouncer
+|Debouncer|--|
+|--|--|
+|![](./assets/debouncer.png)|![](./assets/debouncer.jpg)|
+
+| ALU |
+|--|
+|![](./assets/ALU.jpg)|
+
+|Accumulator|
+|--|
+|![](./assets/Accumulator.jpg)|
